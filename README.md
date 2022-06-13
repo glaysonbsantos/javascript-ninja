@@ -1,3 +1,3 @@
 # JavaScript Ninja
 
-Solved exercises from JavaScript Ninja course with Fernando Daciuk (Udemy).
+Solved exercises of JavaScript Ninja course with Fernando Daciuk from Udemy.
